@@ -5,8 +5,9 @@ I am a skilled software developer with a specialization in web development, part
 
 ## Github Stats
 
-![@mbari60's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mbari60&theme=gotham&layout=compact)
+![@mbari60's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbari60&theme=gotham&layout=compact)
 <br/>
+
 <figure><embed src="https://wakatime.com/share/@mbari60/73f511bd-395c-4226-b98f-9aa9cbfa99cd.svg"></embed></figure>
 <br/>
 # Tech Stacks
