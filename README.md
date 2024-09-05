@@ -20,9 +20,11 @@ I am a skilled software developer with a specialization in web development, part
 
 ### Front-End Frameworks and Libraries
 
+<img src="https://img.shields.io/badge/tailwind css-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/chakra ui-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/>
+<img src="https://img.shields.io/badge/Next.js-%23E23237.svg?style=for-the-badge&logo=nextjs&logoColor=white" align="left"/>
  <br/>
 
 ### Back-End Languages
