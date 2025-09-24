@@ -1,7 +1,9 @@
 # Hi there, I Am Kevin Mbari! 👋
 
 # Bio 
-I am a skilled software developer with a specialization in web development, particularly focusing on full-stack development. I am experienced in other languages such as Python, React, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰
+I’m a skilled software developer specializing in full-stack web development, with strong expertise in Python, React, and JavaScript. I enjoy exploring user interface design and creating mockups in Figma while keeping user experience at the center of my work.
+
+When I’m not coding, I’m usually learning new technologies and experimenting with fresh ideas—embracing change and staying adaptable in the ever-evolving world of software development. Welcome to my world 🌏🗺⛰
 
 ## Github Stats
 
